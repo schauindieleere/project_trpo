@@ -1,0 +1,13 @@
+{
+    "name": "schauindieleere/project_trpo",
+    "description": "project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SomeBodyEls",
+            "email": "xx.maxion@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
